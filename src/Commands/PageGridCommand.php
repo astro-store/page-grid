@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AstroStore\PageGrid\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class PageGridCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'page-grid';
 
     public $description = 'My command';
 
